@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.efb3bcd1.css",
-    "main.js": "/Portfolio/static/js/main.e0c6b868.js",
+    "main.js": "/Portfolio/static/js/main.1f427eef.js",
     "static/media/header_image.png": "/Portfolio/static/media/header_image.de6393a4f5857cdafdf0.png",
     "static/media/android_development.jpg": "/Portfolio/static/media/android_development.059fe79ed2495c83064b.jpg",
     "static/media/iOS_development.jpg": "/Portfolio/static/media/iOS_development.8287a5f617e905c42ee1.jpg",
@@ -10,10 +10,10 @@
     "static/media/logo_light.png": "/Portfolio/static/media/logo_light.348202e4dbd75d550db5.png",
     "index.html": "/Portfolio/index.html",
     "main.efb3bcd1.css.map": "/Portfolio/static/css/main.efb3bcd1.css.map",
-    "main.e0c6b868.js.map": "/Portfolio/static/js/main.e0c6b868.js.map"
+    "main.1f427eef.js.map": "/Portfolio/static/js/main.1f427eef.js.map"
   },
   "entrypoints": [
     "static/css/main.efb3bcd1.css",
-    "static/js/main.e0c6b868.js"
+    "static/js/main.1f427eef.js"
   ]
 }
