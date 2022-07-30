@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.ab2b8117.css",
+    "main.css": "/Portfolio/static/css/main.efb3bcd1.css",
     "main.js": "/Portfolio/static/js/main.e0c6b868.js",
     "static/media/header_image.png": "/Portfolio/static/media/header_image.de6393a4f5857cdafdf0.png",
     "static/media/android_development.jpg": "/Portfolio/static/media/android_development.059fe79ed2495c83064b.jpg",
@@ -9,11 +9,11 @@
     "static/media/logo_dark.png": "/Portfolio/static/media/logo_dark.753f8d87715801bcbea8.png",
     "static/media/logo_light.png": "/Portfolio/static/media/logo_light.348202e4dbd75d550db5.png",
     "index.html": "/Portfolio/index.html",
-    "main.ab2b8117.css.map": "/Portfolio/static/css/main.ab2b8117.css.map",
+    "main.efb3bcd1.css.map": "/Portfolio/static/css/main.efb3bcd1.css.map",
     "main.e0c6b868.js.map": "/Portfolio/static/js/main.e0c6b868.js.map"
   },
   "entrypoints": [
-    "static/css/main.ab2b8117.css",
+    "static/css/main.efb3bcd1.css",
     "static/js/main.e0c6b868.js"
   ]
 }
