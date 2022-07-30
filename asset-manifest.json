@@ -1,16 +1,19 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.71dbb5f5.css",
-    "main.js": "/Portfolio/static/js/main.25b63a54.js",
+    "main.css": "/Portfolio/static/css/main.ab2b8117.css",
+    "main.js": "/Portfolio/static/js/main.e0c6b868.js",
     "static/media/header_image.png": "/Portfolio/static/media/header_image.de6393a4f5857cdafdf0.png",
+    "static/media/android_development.jpg": "/Portfolio/static/media/android_development.059fe79ed2495c83064b.jpg",
+    "static/media/iOS_development.jpg": "/Portfolio/static/media/iOS_development.8287a5f617e905c42ee1.jpg",
+    "static/media/web_development.jpg": "/Portfolio/static/media/web_development.277066468a996b455185.jpg",
     "static/media/logo_dark.png": "/Portfolio/static/media/logo_dark.753f8d87715801bcbea8.png",
     "static/media/logo_light.png": "/Portfolio/static/media/logo_light.348202e4dbd75d550db5.png",
     "index.html": "/Portfolio/index.html",
-    "main.71dbb5f5.css.map": "/Portfolio/static/css/main.71dbb5f5.css.map",
-    "main.25b63a54.js.map": "/Portfolio/static/js/main.25b63a54.js.map"
+    "main.ab2b8117.css.map": "/Portfolio/static/css/main.ab2b8117.css.map",
+    "main.e0c6b868.js.map": "/Portfolio/static/js/main.e0c6b868.js.map"
   },
   "entrypoints": [
-    "static/css/main.71dbb5f5.css",
-    "static/js/main.25b63a54.js"
+    "static/css/main.ab2b8117.css",
+    "static/js/main.e0c6b868.js"
   ]
 }
