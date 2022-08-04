@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.cdc4c2d3.css",
-    "main.js": "/Portfolio/static/js/main.1f427eef.js",
+    "main.css": "/Portfolio/static/css/main.154b92cb.css",
+    "main.js": "/Portfolio/static/js/main.2e437a8d.js",
     "static/media/header_image.png": "/Portfolio/static/media/header_image.de6393a4f5857cdafdf0.png",
     "static/media/android_development.jpg": "/Portfolio/static/media/android_development.059fe79ed2495c83064b.jpg",
     "static/media/iOS_development.jpg": "/Portfolio/static/media/iOS_development.8287a5f617e905c42ee1.jpg",
     "static/media/web_development.jpg": "/Portfolio/static/media/web_development.277066468a996b455185.jpg",
+    "static/media/holiday_hype.PNG": "/Portfolio/static/media/holiday_hype.dd7eb3ed0ed97f383fa3.PNG",
     "static/media/logo_dark.png": "/Portfolio/static/media/logo_dark.753f8d87715801bcbea8.png",
     "static/media/logo_light.png": "/Portfolio/static/media/logo_light.348202e4dbd75d550db5.png",
     "index.html": "/Portfolio/index.html",
-    "main.cdc4c2d3.css.map": "/Portfolio/static/css/main.cdc4c2d3.css.map",
-    "main.1f427eef.js.map": "/Portfolio/static/js/main.1f427eef.js.map"
+    "main.154b92cb.css.map": "/Portfolio/static/css/main.154b92cb.css.map",
+    "main.2e437a8d.js.map": "/Portfolio/static/js/main.2e437a8d.js.map"
   },
   "entrypoints": [
-    "static/css/main.cdc4c2d3.css",
-    "static/js/main.1f427eef.js"
+    "static/css/main.154b92cb.css",
+    "static/js/main.2e437a8d.js"
   ]
 }
