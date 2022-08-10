@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.899ca112.css",
-    "main.js": "/Portfolio/static/js/main.af178372.js",
+    "main.css": "/Portfolio/static/css/main.37ab32fb.css",
+    "main.js": "/Portfolio/static/js/main.8fa0f7dd.js",
     "static/media/header_image.png": "/Portfolio/static/media/header_image.de6393a4f5857cdafdf0.png",
-    "static/media/android_development.jpg": "/Portfolio/static/media/android_development.059fe79ed2495c83064b.jpg",
-    "static/media/iOS_development.jpg": "/Portfolio/static/media/iOS_development.8287a5f617e905c42ee1.jpg",
-    "static/media/web_development.jpg": "/Portfolio/static/media/web_development.277066468a996b455185.jpg",
-    "static/media/holiday_hype.PNG": "/Portfolio/static/media/holiday_hype.51515089ddd95e4fcd86.PNG",
     "static/media/Resume.pdf": "/Portfolio/static/media/Resume.cd4bde305169ad1ecde9.pdf",
-    "static/media/holiday_hype_api.PNG": "/Portfolio/static/media/holiday_hype_api.4d3cd8032c7db63be163.PNG",
+    "static/media/android_development.png": "/Portfolio/static/media/android_development.87d099d39e22b2bd0d4e.png",
+    "static/media/holiday_hype_api.png": "/Portfolio/static/media/holiday_hype_api.2e1e676cf5c185f00401.png",
+    "static/media/holiday_hype.png": "/Portfolio/static/media/holiday_hype.780a7ada34250a08cb15.png",
+    "static/media/ios_development.png": "/Portfolio/static/media/ios_development.1d11a53b7eb5c27f3190.png",
+    "static/media/foodilicious.png": "/Portfolio/static/media/foodilicious.8c236e0856c4d189b0fd.png",
+    "static/media/web_development.png": "/Portfolio/static/media/web_development.5ebc0587b1c7e334526c.png",
     "static/media/logo_dark.png": "/Portfolio/static/media/logo_dark.753f8d87715801bcbea8.png",
     "static/media/footer_image.png": "/Portfolio/static/media/footer_image.e9fc52e56f53e4012e02.png",
     "static/media/logo_light.png": "/Portfolio/static/media/logo_light.348202e4dbd75d550db5.png",
     "index.html": "/Portfolio/index.html",
-    "main.899ca112.css.map": "/Portfolio/static/css/main.899ca112.css.map",
-    "main.af178372.js.map": "/Portfolio/static/js/main.af178372.js.map"
+    "main.37ab32fb.css.map": "/Portfolio/static/css/main.37ab32fb.css.map",
+    "main.8fa0f7dd.js.map": "/Portfolio/static/js/main.8fa0f7dd.js.map"
   },
   "entrypoints": [
-    "static/css/main.899ca112.css",
-    "static/js/main.af178372.js"
+    "static/css/main.37ab32fb.css",
+    "static/js/main.8fa0f7dd.js"
   ]
 }
