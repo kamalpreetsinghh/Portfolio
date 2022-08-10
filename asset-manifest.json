@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.c76a0abb.css",
-    "main.js": "/Portfolio/static/js/main.cbc56545.js",
+    "main.css": "/Portfolio/static/css/main.5be52539.css",
+    "main.js": "/Portfolio/static/js/main.af178372.js",
     "static/media/header_image.png": "/Portfolio/static/media/header_image.de6393a4f5857cdafdf0.png",
     "static/media/android_development.jpg": "/Portfolio/static/media/android_development.059fe79ed2495c83064b.jpg",
     "static/media/iOS_development.jpg": "/Portfolio/static/media/iOS_development.8287a5f617e905c42ee1.jpg",
@@ -13,11 +13,11 @@
     "static/media/footer_image.png": "/Portfolio/static/media/footer_image.e9fc52e56f53e4012e02.png",
     "static/media/logo_light.png": "/Portfolio/static/media/logo_light.348202e4dbd75d550db5.png",
     "index.html": "/Portfolio/index.html",
-    "main.c76a0abb.css.map": "/Portfolio/static/css/main.c76a0abb.css.map",
-    "main.cbc56545.js.map": "/Portfolio/static/js/main.cbc56545.js.map"
+    "main.5be52539.css.map": "/Portfolio/static/css/main.5be52539.css.map",
+    "main.af178372.js.map": "/Portfolio/static/js/main.af178372.js.map"
   },
   "entrypoints": [
-    "static/css/main.c76a0abb.css",
-    "static/js/main.cbc56545.js"
+    "static/css/main.5be52539.css",
+    "static/js/main.af178372.js"
   ]
 }
